@@ -1,5 +1,6 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
+👨‍💻 &nbsp; Temporarily living in Brisbane, Australia \
 💡 &nbsp; Passionate about science and technology.\
 🎓 &nbsp; Economist and Master's degree holder in Economic Sciences from the [National University of Colombia](https://unal.edu.co/). Specialist in econometrics. Mathematics undergraduate student at [UNED](https://www.uned.es) in Spain.\
 🧠  &nbsp; Delving into programming for the development of artificial intelligence.\
@@ -22,6 +23,8 @@
 
 
 ## Contacts
+
+
 
 <a href="https://x.com/JulianLHernz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
