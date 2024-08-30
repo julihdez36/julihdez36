@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp; Temporarily living in Brisbane, Australia \
+<!-- 👨‍💻 &nbsp; Temporarily living in Brisbane, Australia \  -->
 💡 &nbsp; Passionate about science and technology.\
 🎓 &nbsp; Economist and Master's degree holder in Economic Sciences from the [National University of Colombia](https://unal.edu.co/). Specialist in econometrics. Mathematics undergraduate student at [UNED](https://www.uned.es) in Spain.\
 🧠  &nbsp; Delving into programming for the development of artificial intelligence.\
