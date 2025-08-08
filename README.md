@@ -23,10 +23,12 @@
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,mysql,latex,md,html,css,github,git,vscode,azure)](https://skillicons.dev)
-[<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/SVG/shiny.svg" alt="Shiny" width="50" height="50">](https://shiny.rstudio.com/)
+[![My Skills](https://skillicons.dev/icons?i=python,r,cpp,matlab,mysql,latex,md,html,css,github,git,vscode,azure)](https://skillicons.dev)
+<!-- [<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/SVG/shiny.svg" alt="Shiny" width="50" height="50">](https://shiny.rstudio.com/)
 [<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="50" height="50">](https://spark.apache.org/)
-[<img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="50" height="50">](https://databricks.com)
+[<img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="50" height="50">](https://databricks.com) -->
+
+
 
 
 
