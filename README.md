@@ -2,8 +2,11 @@
 
 <!-- 👨‍💻 &nbsp; Temporarily living in Brisbane, Australia \  -->
 💡   Passionate about science, technology, and philosophy.
+
 🎓   Degree in Mathematical Economics, Specialist in Statistics and Econometrics, and Master's degree holder in Economic Sciences. Currently an undergraduate student in Mathematics.
+
 🧠   Interested in the study of stochastic processes, complex systems, dynamic systems, nonlinearity, complex networks, cellular automata, agent-based models, game theory, microeconomics, and machine learning.
+
 ✍️   In my free time, I enjoy scientific philosophy—particularly the philosophy of mathematics—and science communication in general, with a special interest in economics and evolutionary biology.
 
 ## My Research Interest:
