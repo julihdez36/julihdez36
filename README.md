@@ -1,21 +1,21 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 <!-- 👨‍💻 &nbsp; Temporarily living in Brisbane, Australia \  -->
-💡 &nbsp; Passionate about science and technology.\
-🎓 &nbsp; Economist and Master's degree holder in Economic Sciences from the [National University of Colombia](https://unal.edu.co/). Specialist in econometrics. Mathematics undergraduate student at [UNED](https://www.uned.es) in Spain.\
-🧠  &nbsp; Delving into programming for the development of artificial intelligence.\
-✍️ &nbsp; In my free time, I enjoy delving into science and scientifically informed philosophy. 
+💡   Passionate about science, technology, and philosophy.
+🎓   Degree in Mathematical Economics, Specialist in Statistics and Econometrics, and Master's degree holder in Economic Sciences. Currently an undergraduate student in Mathematics.
+🧠   Interested in the study of stochastic processes, complex systems, dynamic systems, nonlinearity, complex networks, cellular automata, agent-based models, game theory, microeconomics, and machine learning.
+✍️   In my free time, I enjoy scientific philosophy—particularly the philosophy of mathematics—and science communication in general, with a special interest in economics and evolutionary biology.
 
 ## My Research Interest:
 
-- Statistics and Probability
-- Stochastic Processes
-- Econometrics
-- Machine Learning
-- Deep Learning
-- Complex Systems
-- Mathematical Modeling
-- Game Theory
+
+- Stochastic processes
+- Complex systems and nonlinear dynamics
+- Complex networks
+- Game theory and microeconomics
+- Agent-based models
+- Cellular automata
+- Machine learning and statistical learning
 
 <!-- ## Languages and Tools:
 
