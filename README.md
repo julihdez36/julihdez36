@@ -29,9 +29,10 @@
 [![My Skills](https://skillicons.dev/icons?i=python,r,cpp,sklearn,tensorflow,pytorch,django,mysql,latex,md,github,git,powershell)](https://skillicons.dev)
 
 
-
+<!-- 
 ## Contacts
 
 
 <a href="https://x.com/JulianLHernz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
+-->
