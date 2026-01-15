@@ -22,7 +22,7 @@
 
 <!-- ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,mysql,latex,md,html,css,github,git,vscode,azure)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=python,r,sklearn,tensorflow,pytorch,django,mysql,latex,md,github,git,powershell)](https://skillicons.dev) -->
 
 ## Languages and Tools:
 
