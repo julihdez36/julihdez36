@@ -26,7 +26,7 @@
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,cpp,matlab,mysql,latex,md,html,css,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,cpp,sklearn,tensorflow,pytorch,django,mysql,latex,md,github,git,powershell)](https://skillicons.dev)
 
 
 
